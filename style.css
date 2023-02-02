@@ -1,0 +1,49 @@
+body {
+  padding: 10px;
+}
+
+header {
+  margin: 25px;
+  text-align: center;
+}
+
+header > img {
+  height: auto;
+  width: 50%;
+}
+
+.subheading {
+  color: orange;
+  text-align: center;
+}
+
+.subheading2 {
+  font-style: italic;
+  text-align: center;
+}
+
+.menu {
+  margin-top: 25px;
+}
+
+.item {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.row {
+  margin: 10px;
+}
+
+.menu_image > img {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+}
+
+button {
+  background-color: lightblue;
+  border: solid;
+  border-color: black;
+  border-radius: 12px;
+}
