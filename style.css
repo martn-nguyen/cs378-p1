@@ -32,7 +32,12 @@ header > img {
 }
 
 .row {
-  margin: 10px;
+  margin: 5px;
+}
+
+.menu_image {
+    text-align: right;
+    padding-right: 50px;
 }
 
 .menu_image > img {
@@ -46,4 +51,8 @@ button {
   border: solid;
   border-color: black;
   border-radius: 12px;
+}
+
+.menu_price {
+    text-align: left;
 }
